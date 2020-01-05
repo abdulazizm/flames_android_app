@@ -104,7 +104,7 @@ public class Result extends AppCompatActivity {
     }
 
     void flipImage(final String output_str) {
-        oa1 = ObjectAnimator.ofFloat(animate, "scaleX", 1f, 0f,0f,1f,0f,1f,0f,1f,0f,1f,0f,1f);
+        oa1 = ObjectAnimator.ofFloat(animate, "scaleX", 1f, 0f,0f,1f,1f,0f,0f,1f,1f,0f,0f,1f);
         final ObjectAnimator oa2 = ObjectAnimator.ofFloat(animate, "scaleX", 0f, 1f);
         oa1.setInterpolator(new DecelerateInterpolator());
         oa2.setInterpolator(new AccelerateDecelerateInterpolator());
