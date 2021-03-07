@@ -1,12 +1,12 @@
 # FLAMES - fun android app - confetti
 ## Available in playstore - https://play.google.com/store/apps/details?id=com.fpe.flames&hl=en_IN&gl=US - 100+ installs
 
-F - Friend
-L - Love
-A - Affection
-M - Marriage
-E - Enemy
-S - Sibiling
+* F - Friend
+* L - Love
+* A - Affection
+* M - Marriage
+* E - Enemy
+* S - Sibiling
 
 - Algorithm that calculates FLAMES
 - Pleasing UI
