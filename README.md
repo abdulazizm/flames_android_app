@@ -1,5 +1,8 @@
 # FLAMES - fun android app - confetti
-## Available in playstore - https://play.google.com/store/apps/details?id=com.fpe.flames&hl=en_IN&gl=US - 100+ installs
+Author: Abdul Aziz
+Mail ID: abdulaziz.m.eie@gmail.com
+Country: India
+#### Available in playstore - https://play.google.com/store/apps/details?id=com.fpe.flames&hl=en_IN&gl=US - 100+ installs
 
 * F - Friend
 * L - Love
